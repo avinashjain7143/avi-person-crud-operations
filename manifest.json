@@ -1,0 +1,12 @@
+{
+  "runtime":{
+    "majorVersion": "8"
+  },
+  "command": "java -jar avi-person-crud-operations-0.0.1-SNAPSHOT.jar",
+  "release": {
+    "build": "2020",
+    "commit": "avi-person-crud-operations",
+    "version": "0.0.1-SNAPSHOT"
+  },
+  "notes": "Avi Person crud operations API"
+}
